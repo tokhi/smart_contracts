@@ -1,1 +1,1 @@
-# smart_contracts
+# block chain smart contracts
